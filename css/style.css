@@ -37,7 +37,7 @@ body {
 .resume .resume_left {
   width: 280px;
   background: #670370;
-  height: 1850;  /*-- not math??? --*/
+  height: 1500px;  /*-- not math??? --*/
 }
 
 .resume .resume_left .cv_photo {
@@ -196,6 +196,7 @@ body {
   width: 820px;
   background: #fff;
   padding: 25px;
+  height: 1500px;
 }
 
 .resume .resume_right .bold {
