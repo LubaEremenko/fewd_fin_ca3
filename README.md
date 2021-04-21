@@ -26,9 +26,9 @@ I guess it's a bad idea to put such a photo on a resume.
 It should not have sunglasses and a camera, but unfortunately I have no other photo.
 
 #### Libraries and Frameworks used
-Bootstrap 
-Javascript 
-CSS
+* Bootstrap 
+* Javascript 
+* CSS
 
 #### Problems
 Gross grammatical errors /slills/. =) 
